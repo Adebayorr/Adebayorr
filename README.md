@@ -49,6 +49,6 @@ Check out some of my recent blog posts:
 
 I'm always excited to collaborate and connect with fellow developers, so don't hesitate to reach out. Let's learn, build, and innovate together!
 
-![GitHub Followers]([https://img.shields.io/github/followers/Adebayorr?label=Follow&style=social](https://avatars.githubusercontent.com/u/99690108?v=4)) ![Twitter Follow](https://img.shields.io/twitter/follow/bayorrcode?label=Follow&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/adebayorr?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/bayorrcode?label=Follow&style=social)
 
 Thanks for stopping by! Happy coding!
