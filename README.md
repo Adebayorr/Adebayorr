@@ -2,6 +2,25 @@
 
 [Raheem Adebayor](www.github.com/Adebayorr)
 
+<div class="typewriter">
+  <h1>Welcome to <span>[Your Name]'s</span> GitHub Profile!</h1>
+</div>
+
+<link rel="stylesheet" href="css/typewriter.css">
+<style>
+  .typewriter h1 {
+    overflow: hidden; 
+    border-right: 0.15em solid orange; 
+    white-space: nowrap; 
+    margin: 0;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+
+  .typewriter h1 span {
+    color: #007acc; 
+  }
+</style>
+
 Hello, fellow developers and curious minds! 👋 I'm Adebayorr, a budding software engineer passionate about web development, problem-solving, and growth-driven development. Welcome to my GitHub world, where code and creativity collide.
 
 ## About Me
