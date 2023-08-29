@@ -1,4 +1,3 @@
-# Welcome to my GitHub Profile!
 
 [Raheem Adebayor](www.github.com/Adebayorr)
 
