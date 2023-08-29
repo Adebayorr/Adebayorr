@@ -3,10 +3,10 @@
 [Raheem Adebayor](www.github.com/Adebayorr)
 
 <div class="typewriter">
-  <h1>Welcome to <span>[Your Name]'s</span> GitHub Profile!</h1>
+  <h1>Welcome to my GitHub Profile!</h1>
 </div>
 
-<link rel="stylesheet" href="css/typewriter.css">
+<link rel="stylesheet" href="css/type.css">
 <style>
   .typewriter h1 {
     overflow: hidden; 
