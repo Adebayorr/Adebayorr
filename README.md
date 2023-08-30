@@ -26,7 +26,7 @@ VTU Website is an effective solution to access to affordable data connection in 
 
 <!--![Project Screenshot](link_to_project_screenshot.png) -->
 
-Repository: [VTU-Website](https://github.com/yourusername/project-repo)
+Repository: [VTU-Website](https://www.github.com/yourusername/project-repo)
 
 <!-- ### [Another Project]
 
