@@ -13,7 +13,7 @@ Hello, fellow developers and curious minds! 👋 I'm Adebayorr, a budding softwa
 
 I believe that the best way to predict the future is to create it. As an avid problem solver and lifelong learner, I'm constantly seeking new challenges to overcome and technologies to master. My journey in the world of programming has led me to explore various domains, including frontend development, version control, and effective collaboration.
 
-- 🔭 I’m currently working on a VTU Website(https://www.github/Adebayorr/VTU-website)
+- 🔭 I’m currently working on a [VTU Website](https://github.com/Adebayorr/VTU-website)
 - 🌱 I’m currently learning React
 - 📫 How to reach me: [Gmail](raheemadebayorr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bayorrraheem) | [Twitter](https://twitter.com/bayorrcode)
 - ⚡ Fun fact: [Interesting Fact About You]
