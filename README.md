@@ -26,7 +26,7 @@ CollabNest is a platform that helps tech beginners and professionals find partne
 
 <!--![Project Screenshot](link_to_project_screenshot.png) -->
 
-Repository: [VTU-Website](https://github.com/Adebayorr/VTU-website)
+Repository: [CollabNest](https://github.com/Adebayorr/CollabNest-Frontend)
 
 <!-- ### [Another Project]
 
